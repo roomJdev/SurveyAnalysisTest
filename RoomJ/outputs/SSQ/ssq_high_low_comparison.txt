@@ -1,0 +1,4 @@
+=== High (Top 25%) vs Low (Bottom 25%) SSQ_Standardized Comparison ===
+SSQ_Nausea: t=2.87, p=0.017
+SSQ_Oculomotor: t=4.87, p=0.001
+SSQ_Disorientation: t=5.96, p=0.000

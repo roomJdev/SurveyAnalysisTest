@@ -1,0 +1,7 @@
+=== Participant Score Distribution Summary ===
+SSS_Total: Mean=116.58, Std=20.07, Var=402.86
+MACHI_Total: Mean=39.75, Std=9.90, Var=98.02
+BIS_Total: Mean=61.92, Std=10.71, Var=114.69
+SSQ_Total: Mean=56.10, Std=36.46, Var=1329.43
+VRSQ_Total: Mean=33.12, Std=19.28, Var=371.88
+PQ_Avg: Mean=16.78, Std=3.28, Var=10.76

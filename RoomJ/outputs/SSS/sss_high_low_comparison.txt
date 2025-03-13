@@ -1,0 +1,5 @@
+=== High (Top 25%) vs Low (Bottom 25%) Comparison ===
+SSS_TAS: t=7.21, p=0.000
+SSS_ES: t=4.37, p=0.001
+SSS_BS: t=4.02, p=0.002
+SSS_DIS: t=2.05, p=0.067

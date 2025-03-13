@@ -1,0 +1,10 @@
+=== Machiavellianism Total Score ===
+count    24.00
+mean     39.75
+std       9.90
+min      21.00
+25%      34.75
+50%      39.50
+75%      45.25
+max      60.00
+Name: MACHI_Total, dtype: float64

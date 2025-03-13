@@ -1,0 +1,2 @@
+=== Top 25% vs Bottom 25% ===
+T-test: t=8.40, p=0.000

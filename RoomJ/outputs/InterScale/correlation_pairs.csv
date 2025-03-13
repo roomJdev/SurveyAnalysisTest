@@ -1,0 +1,16 @@
+Scale1,Scale2,Pearson_r,Pearson_p,Spearman_r,Spearman_p
+SSS_Total,MACHI_Total,0.537,0.007,0.564,0.004
+SSS_Total,BIS_Total,0.068,0.752,0.096,0.655
+SSS_Total,SSQ_Total,0.103,0.631,0.212,0.321
+SSS_Total,VRSQ_Total,0.088,0.683,0.068,0.754
+SSS_Total,PQ_Total,-0.382,0.065,-0.345,0.099
+MACHI_Total,BIS_Total,0.444,0.03,0.52,0.009
+MACHI_Total,SSQ_Total,0.446,0.029,0.456,0.025
+MACHI_Total,VRSQ_Total,0.426,0.038,0.313,0.136
+MACHI_Total,PQ_Total,-0.699,0.0,-0.608,0.002
+BIS_Total,SSQ_Total,0.197,0.357,0.162,0.451
+BIS_Total,VRSQ_Total,0.199,0.351,0.176,0.411
+BIS_Total,PQ_Total,-0.153,0.476,-0.136,0.525
+SSQ_Total,VRSQ_Total,0.972,0.0,0.942,0.0
+SSQ_Total,PQ_Total,-0.347,0.097,-0.405,0.05
+VRSQ_Total,PQ_Total,-0.322,0.125,-0.308,0.143

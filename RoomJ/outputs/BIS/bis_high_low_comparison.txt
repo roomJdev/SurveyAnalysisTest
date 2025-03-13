@@ -1,0 +1,4 @@
+=== High (Top 25%) vs Low (Bottom 25%) BIS_Total Comparison ===
+BIS_Attentional: t=5.68, p=0.000
+BIS_Motor: t=10.40, p=0.000
+BIS_NonPlanning: t=3.52, p=0.006
