@@ -182,3 +182,19 @@ with open("outputs/BIS/bis_high_low_comparison.txt", "w") as f:
     for col in bis_cols:
         t_stat, p_val = ttest_ind(high_group[col], low_group[col])
         f.write(f"{col}: t={t_stat:.2f}, p={p_val:.3f}\n")
+# ============================================
+# 5. BIS 계층적 클러스터 간 t-test 분석
+# ============================================
+
+from itertools import combinations
+
+with open("outputs/BIS/bis_hierarchical_cluster_ttest.txt", "w") as f:
+    f.write("=== Hierarchical Cluster Pairwise t-tests ===\n")
+    cluster_ids = df["BIS_Hier_Cluster"].unique()
+    for c1, c2 in combinations(cluster_ids, 2):
+        f.write(f"\n--- Cluster {c1} vs Cluster {c2} ---\n")
+        group1 = df[df["BIS_Hier_Cluster"] == c1]
+        group2 = df[df["BIS_Hier_Cluster"] == c2]
+        for col in bis_cols:
+            t_stat, p_val = ttest_ind(group1[col], group2[col])
+            f.write(f"{col}: t={t_stat:.2f}, p={p_val:.3f}\n")

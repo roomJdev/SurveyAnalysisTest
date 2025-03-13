@@ -1,0 +1,16 @@
+=== Hierarchical Cluster Pairwise t-tests ===
+
+--- Cluster 2 vs Cluster 1 ---
+BIS_Attentional: t=-4.95, p=0.000
+BIS_Motor: t=-2.58, p=0.020
+BIS_NonPlanning: t=-5.10, p=0.000
+
+--- Cluster 2 vs Cluster 3 ---
+BIS_Attentional: t=1.11, p=0.287
+BIS_Motor: t=4.73, p=0.000
+BIS_NonPlanning: t=-1.54, p=0.146
+
+--- Cluster 1 vs Cluster 3 ---
+BIS_Attentional: t=5.04, p=0.000
+BIS_Motor: t=8.75, p=0.000
+BIS_NonPlanning: t=2.25, p=0.044

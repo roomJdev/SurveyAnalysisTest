@@ -1,4 +1,4 @@
-Survey Analysis Summary Report (2025-03-13 12:02)
+Survey Analysis Summary Report (2025-03-13 12:48)
 
 [SSS] Output Files:
   - barplot_means.png
@@ -70,6 +70,7 @@ Survey Analysis Summary Report (2025-03-13 12:02)
   - bis_correlation_with_other_scales.csv
   - bis_descriptive_stats.csv
   - bis_hierarchical_cluster_profile.csv
+  - bis_hierarchical_cluster_ttest.txt
   - bis_hierarchical_dendrogram.png
   - bis_high_low_comparison.txt
   - bis_kmeans_cluster_heatmap.png
